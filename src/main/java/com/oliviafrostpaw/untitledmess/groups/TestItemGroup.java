@@ -1,4 +1,4 @@
-package com.oliviafrostpaw.untitledmess;
+package com.oliviafrostpaw.untitledmess.groups;
 
 import com.oliviafrostpaw.untitledmess.lists.BlockList;
 import net.minecraft.item.Item;

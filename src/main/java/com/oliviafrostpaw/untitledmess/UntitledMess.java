@@ -8,6 +8,7 @@ import java.io.IOException;
 import org.apache.logging.log4j.*;
 
 import com.oliviafrostpaw.untitledmess.config.Config;
+import com.oliviafrostpaw.untitledmess.groups.TestItemGroup;
 import com.oliviafrostpaw.untitledmess.lists.ArmorMaterialList;
 import com.oliviafrostpaw.untitledmess.lists.BlockList;
 import com.oliviafrostpaw.untitledmess.lists.FoodList;
