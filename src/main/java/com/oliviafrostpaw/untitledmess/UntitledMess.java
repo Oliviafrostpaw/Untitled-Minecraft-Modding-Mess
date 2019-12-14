@@ -32,7 +32,6 @@ import net.minecraft.item.ShovelItem;
 import net.minecraft.item.SwordItem;
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.common.MinecraftForge;
-import net.minecraftforge.event.LootTableLoadEvent;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.ModLoadingContext;
@@ -41,8 +40,6 @@ import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.fml.loading.FMLPaths;
-import net.minecraft.world.storage.loot.LootPool;
-import net.minecraft.world.storage.loot.TableLootEntry;
 import net.minecraftforge.fml.config.ModConfig;
 
 @Mod("untitledmess")
@@ -74,6 +71,17 @@ public class UntitledMess
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 	
+//	@SubscribeEvent
+//	public static void onLootTablesLoaded(LootTableLoadEvent event) //throws IOException 
+//	{
+//		//ownFileWriter("I hit this");
+//	    if (event.getName().equals(new ResourceLocation("minecraft","grass"))) 
+//	    {
+//	    	//ownFileWriter("I hit this Inside");
+//	       event.getTable().addPool(LootPool.builder().addEntry(TableLootEntry.builder(new ResourceLocation(modid,"grass"))).build());
+//	    }
+//	}
+	
 	
 	private void setup(final FMLCommonSetupEvent event)
 	{
@@ -85,21 +93,9 @@ public class UntitledMess
 	{
 		
 	}
-	
 	@Mod.EventBusSubscriber(bus=Mod.EventBusSubscriber.Bus.MOD)
 	public static class RegistryEvents
 	{
-		@SubscribeEvent
-		public static void lootTableLoad(LootTableLoadEvent event) throws IOException 
-		{
-			ownFileWriter("I hit this bitch");
-		    if (event.getName().equals(new ResourceLocation("minecraft","grass"))) 
-		    {
-		    	ownFileWriter("I hit this bitch Inside");
-		       event.getTable().addPool(LootPool.builder().addEntry(TableLootEntry.builder(new ResourceLocation(modid,"grass"))).build());
-		    }
-		}
-		
 		@SubscribeEvent
 		public static void registerItems(final RegistryEvent.Register<Item> event) throws IOException
 		{
@@ -261,7 +257,6 @@ public class UntitledMess
 
 
 	}
-	
 	
 	public static void ownFileWriter(String str) throws IOException
 	{
