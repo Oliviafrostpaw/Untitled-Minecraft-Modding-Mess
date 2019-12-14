@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values":
+		[
+			"untitledmess:graphite",
+			"minecraft:coal",
+			"minecraft:charcoal"
+		]
+}

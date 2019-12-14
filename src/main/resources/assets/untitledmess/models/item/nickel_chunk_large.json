@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": 
+    {
+        "layer0": "untitledmess:item/nickel_chunk_large"
+    }
+}

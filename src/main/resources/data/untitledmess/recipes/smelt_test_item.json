@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	
+	"ingredient": {"tag": "untitledmess:pebbles"},
+	"result": "untitledmess:test_item",
+	"count": 1,
+	"experience": 2.3,
+	"cookingtime": 200
+}

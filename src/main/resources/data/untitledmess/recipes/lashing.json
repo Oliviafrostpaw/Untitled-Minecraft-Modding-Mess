@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"FFF",
+		"F F",
+		"FFF"
+	],
+	
+	"key":
+	{
+		"F": {"item": "untitledmess:grass_fiber"}
+	},
+	
+	"result": {"item": "untitledmess:lashing"},
+	"count": 2
+}

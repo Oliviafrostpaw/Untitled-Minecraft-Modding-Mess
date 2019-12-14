@@ -1,0 +1,70 @@
+GetVillageBlockID
+ClientChatEvent
+ClientChatRecievedEvent
+ClientPlayerNetworkEvent(LoggedInEvent,LoggedOutEvent,RespawnEvent)
+CommandEvent
+DifficultyChangeEvent
+EnchantmentLevelSetEvent
+EntityTravelToDimensionEvent
+ItemEvent(ItemExpireEvent, ItemTossEvent)
+
+LivingAttackEvent
+LivingDamageEvent
+LivingDeathEvent
+LivingDestroyBlockEvent
+LivingDropsEvent
+LivingEntityUseItemEvent(Finish Start Stop Tick)
+LivingEquipmentChangeEvent
+LivingExperienceDropEvent
+LivingHealEvent
+LivingHurtEvent
+LivingJumpEvent
+
+PlayerEvent
+AdvancementEvent
+AttackEntityEvent
+CriticalHitEvent
+EntityItemPickupEvent
+FillBucketEvent
+HarvestCheck
+ItemPickupEvent
+ItemCraftedEvent
+ItemSmeltedEvent
+PlayerChangedDimensionEvent
+PlayerContainerEvent (Close, Open)
+PlayerDestroyItemEvent
+PlayerInteractEvent
+(EntityInteract, EntityInteractSpecific, LeftClickBlock, LeftClickEmpty, RightClickBlock, RightClickEmpty, RightClickItem)
+PlayerLoggedInEvent, PlayerloggedOutEvent, PlayerRespawnEvent
+PlayerSetSpawnEvent
+PlayerSleepInBedEvent
+PlayerXpEvent (LevelChange, PickupXp, XpChange)
+RenderPlayerEvent (Post, Pre)
+StartTracking
+StopTracking
+UseHoeEvent
+
+PotionEvent
+PotionAddedEvent
+PotionApplicableEvent
+PotionExpiryEvent
+PotionRemoveEvent
+
+PlaySoundAtEntityEvent
+ProjectileImpactEvent
+(Arrow, Fireball, Throwable)
+ZombieEvent (SummonAidEvent)
+FurnaceFuelBurnTimeEvent
+
+GuiContainerEvent
+(DrawBackground,
+DrawForeground)
+GuiOpenEvent
+GuiScreenEvent(ActionPerformedEvent(Post,Pre),
+BackgroundDrawEvent, DrawScreenEvent(Post, Pre),
+InitGuiEvent(Post, Pre), KeyboardCharTypedEvent(Post, Pre), 
+KeyboardKeyEvent(KeyboardKeyPressedEvent (Post, Pre), KeyboardKeyReleasedEvent(Post, Pre)),
+MouseInputEvent(MouseClickedEvent (Post, Pre), MouseDragEvent (Post, Pre), MouseReleasedEvent (Post, Pre), MouseScrollEvent(Post, Pre))
+
+
+

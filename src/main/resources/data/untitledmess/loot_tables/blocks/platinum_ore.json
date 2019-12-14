@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:block",
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries": 
+			[
+				{
+					"type": "minecraft:item",
+					"name": "untitledmess:platinum_chunk",
+					"name": "untitledmess:platinum_chunk_small",
+					"name": "untitledmess:platinum_chunk_large"
+				}
+			]
+		}
+	]
+}

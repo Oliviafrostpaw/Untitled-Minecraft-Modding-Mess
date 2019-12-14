@@ -1,0 +1,112 @@
+{
+	
+	"item.untitledmess.test_item": "Testing Item",
+	"block.untitledmess.test_block": "Testing Block",
+	"item.untitledmess.test_food": "Testing Food",
+	"itemGroup.untitledmess": "Testing",
+	
+	
+	"item.untitledmess.grass_fiber": "Fiber",
+	"item.untitledmess.lashing": "Lashing",
+	
+	"item.untitledmess.stone_pebble": "Stone",
+	
+	"item.untitledmess.aluminium_chunk_large": "Aluminium Chunk Large",
+	"item.untitledmess.aluminium_chunk_small": "Aluminium Chunk Small",
+	"item.untitledmess.aluminium_chunk": "Aluminium Chunk",
+	"block.untitledmess.aluminium_ore": "Aluminium Ore",
+	"item.untitledmess.aluminium_ingot": "Aluminium Ingot",
+	
+	"item.untitledmess.bismuth_chunk_large": "Bismuth Chunk Large",
+	"item.untitledmess.bismuth_chunk_small": "Bismuth Chunk Small",
+	"item.untitledmess.bismuth_chunk": "Bismuth Chunk",
+	"block.untitledmess.bismuth_ore": "Bismuth Ore",
+	"item.untitledmess.bismuth_ingot": "Bismuth Ingot",
+	
+	"item.untitledmess.copper_chunk_large": "Copper Chunk Large",
+	"item.untitledmess.copper_chunk_small": "Copper Chunk Small",
+	"item.untitledmess.copper_chunk": "Copper Chunk",
+	"block.untitledmess.copper_ore": "Copper Ore",
+	"item.untitledmess.copper_ingot": "Copper Ingot",
+	
+	"item.untitledmess.iron_chunk_large": "Iron Chunk Large",
+	"item.untitledmess.iron_chunk_small": "Iron Chunk Small",
+	"item.untitledmess.iron_chunk": "Iron Chunk",
+	
+	"item.untitledmess.gold_chunk_large": "Gold Chunk Large",
+	"item.untitledmess.gold_chunk_small": "Gold Chunk Small",
+	"item.untitledmess.gold_chunk": "Gold Chunk",
+	
+	"item.untitledmess.lead_chunk_large": "Lead Chunk Large",
+	"item.untitledmess.lead_chunk_small": "Lead Chunk Small",
+	"item.untitledmess.lead_chunk": "Lead Chunk",
+	"block.untitledmess.lead_ore": "Lead Ore",
+	"item.untitledmess.lead_ingot": "Lead Ingot",
+	
+	"item.untitledmess.nickel_chunk_large": "Nickel Chunk Large",
+	"item.untitledmess.nickel_chunk_small": "Nickel Chunk Small",
+	"item.untitledmess.nickel_chunk": "Nickel Chunk",
+	"block.untitledmess.nickel_ore": "Nickel Ore",
+	"item.untitledmess.nickel_ingot": "Nickel Ingot",
+	
+	"item.untitledmess.platinum_chunk_large": "Platinum Chunk Large",
+	"item.untitledmess.platinum_chunk_small": "Platinum Chunk Small",
+	"item.untitledmess.platinum_chunk": "Platinum Chunk",
+	"block.untitledmess.platinum_ore": "Platinum Ore",
+	"item.untitledmess.platinum_ingot": "Platinum Ingot",
+	
+	"item.untitledmess.silver_chunk_large": "Silver Chunk Large",
+	"item.untitledmess.silver_chunk_small": "Silver Chunk Small",
+	"item.untitledmess.silver_chunk": "Silver Chunk",
+	"block.untitledmess.silver_ore": "Silver Ore",
+	"item.untitledmess.silver_ingot": "Silver Ingot",
+	
+	"item.untitledmess.tin_chunk_large": "Tin Chunk Large",
+	"item.untitledmess.tin_chunk_small": "Tin Chunk Small",
+	"item.untitledmess.tin_chunk": "Tin Chunk",
+	"block.untitledmess.tin_ore": "Tin Ore",
+	"item.untitledmess.tin_ingot": "Tin Ingot",
+	
+	"item.untitledmess.zinc_chunk_large": "Zinc Chunk Large",
+	"item.untitledmess.zinc_chunk_small": "Zinc Chunk Small",
+	"item.untitledmess.zinc_chunk": "Zinc Chunk",
+	"block.untitledmess.zinc_ore": "Zinc Ore",
+	"item.untitledmess.zinc_ingot": "Zinc Ingot",
+	
+	"block.untitledmess.borax_ore": "Borax Ore",
+	"item.untitledmess.borax": "Borax",
+	
+	"block.untitledmess.graphite_ore": "Graphite Ore",
+	"item.untitledmess.graphite": "Graphite",
+	
+	"block.untitledmess.gypsum_ore": "Gypsum Ore",
+	"item.untitledmess.gypsum": "Gypsum",
+	
+	"block.untitledmess.kaolinite_ore": "Kaolinite Ore",
+	"item.untitledmess.kaolinite": "Kaolinite",
+	
+	"block.untitledmess.potasium_nitrate_ore": "Potasium Nitrate Ore",
+	"item.untitledmess.potasium_nitrate": "Potasium Nitrate",
+	
+	"block.untitledmess.sulfur_ore": "Sulfur Ore",
+	"item.untitledmess.sulfur": "Sulfur",
+	
+	"item.untitledmess.limestone_pebble": "Limestone",
+	"block.untitledmess.limestone": "Limestone Block",
+	"item.untitledmess.limestone_ground": "Ground Limestone",
+	
+	"item.untitledmess.needle_wooden": "Wooden Needle",
+	"item.untitledmess.needle_metal": "Metal Needle",
+
+	"item.untitledmess.copper_hoe": "Copper Hoe",
+	"item.untitledmess.copper_axe": "Copper Axe",
+	"item.untitledmess.copper_pickaxe": "Copper Pickaxe",
+	"item.untitledmess.copper_sword": "Copper Sword",
+	"item.untitledmess.copper_shovel": "Copper Shovel",
+
+	"item.untitledmess.copper_helmet": "Copper Helmet",
+	"item.untitledmess.copper_chestplate": "Copper Chestplate",
+	"item.untitledmess.copper_leggings": "Copper Leggings",
+	"item.untitledmess.copper_boots": "Copper Boots"
+	
+}

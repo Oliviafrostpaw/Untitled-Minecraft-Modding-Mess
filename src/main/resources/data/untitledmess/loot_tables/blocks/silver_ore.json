@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:block",
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries": 
+			[
+				{
+					"type": "minecraft:item",
+					"name": "untitledmess:silver_chunk",
+					"name": "untitledmess:silver_chunk_small",
+					"name": "untitledmess:silver_chunk_large"
+				}
+			]
+		}
+	]
+}
